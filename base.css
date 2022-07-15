@@ -28,7 +28,7 @@ button {
 	--accent: 37, 172, 232;
 	--accent-alt: 29, 101, 134;
 	--black: 0, 0, 0;
-	--white: 249, 24, 24;
+	--white: 255, 255, 255;
 	/* BlurpleRecolor */
 	--accentcolor: var(--accent);
 	--vaccentcolor-hover: rgb(var(--accent));
